@@ -1,0 +1,9 @@
+Go to the vet || 
+Tarea agregado por el usuario : 
+ DESKTOP-7HL6K2L 
+					desde un sistema operativo 
+ win32[{"model":"Intel(R) Pentium(R) CPU B950 @ 2.10GHz","speed":2095,"times":{"user":4519125,"nice":0,"sys":5184671,"idle":13698859,"irq":329562}},{"model":"Intel(R) Pentium(R) CPU B950 @ 2.10GHz","speed":2095,"times":{"user":4918703,"nice":0,"sys":4661031,"idle":13822625,"irq":44484}}]Go to the vet || 
+Tarea agregado por el usuario : 
+ DESKTOP-7HL6K2L 
+					desde un sistema operativo 
+ undefined[{"model":"Intel(R) Pentium(R) CPU B950 @ 2.10GHz","speed":2095,"times":{"user":4529859,"nice":0,"sys":5196437,"idle":13740203,"irq":329937}},{"model":"Intel(R) Pentium(R) CPU B950 @ 2.10GHz","speed":2095,"times":{"user":4928890,"nice":0,"sys":4672609,"idle":13864703,"irq":44515}}]

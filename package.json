@@ -1,0 +1,23 @@
+{
+  "name": "filesystem",
+  "version": "1.0.0",
+  "description": "Practicas con FileSystem NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "browser-sync start --server ./ --files ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimelorobert"
+  },
+  "keywords": [
+    "filesystem",
+    "nodejs"
+  ],
+  "author": "Robert Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
